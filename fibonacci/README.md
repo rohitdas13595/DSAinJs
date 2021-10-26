@@ -1,10 +1,15 @@
-
-### Languages and Tools used for this project:
+<h1>Fibonacci Numbers</h1>
+<h4>Solved using</h4>
+- Recurssion
+- Memoziation
+- Bottom up Optimization
+<h3>Languages and Tools used for this project:</h3>
 
 [<img align="left" alt="Node Js" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/node-dot-js.svg" />][nodejs]
 
 <br />
-### Hi there, I'm Rohit
+<hr>
+<h3> Hi there, I'm Rohit</h3>
 
 ## I'm a Developer, Student and a lifelong Learner!!
 
