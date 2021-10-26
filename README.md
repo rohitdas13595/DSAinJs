@@ -1,7 +1,8 @@
 # Data Structures and algorithms 
 Data Structures and algoritms in JavaScript
 <hr>
-### Languages and Tools used for this project:
+
+<h3>Languages and Tools used for this project:</h3>
 
 [<img align="left" alt="Node Js" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/node-dot-js.svg" />][nodejs]
 
