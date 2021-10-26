@@ -1,4 +1,5 @@
 // uses botttomup approach
+/*Complexity O(n), space O(n) */
 
 var fibBottomUp = (n) => {
     var mem = [];

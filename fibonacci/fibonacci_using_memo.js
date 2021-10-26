@@ -1,4 +1,6 @@
 //This fumction : recursion + memoziation
+
+/**Time complexity O(N), Space O(N) */
 const memo = {};
 const fibonacci = (n) => {
   if (n === 1 || n === 2) {

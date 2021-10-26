@@ -1,5 +1,7 @@
 // uses the varriable to find the no
 
+/* Time O(N), Space O(1) */
+
 var fibBottomUp2 = (n) => {
 let first =0;
 let second = 0;
